@@ -120,3 +120,5 @@ with the discussions on A.I. development is on having A.I. achieve the likeness 
 without boundaries... A.I. could impersonate person, person would use A.I. to conjure up mirages, et cetera. In the corporatistic terms 
 the mainstream media was using in their press releases, they agreed on the term "guardrails" as the boundaries to be imposed on A.I. systems 
 to prevent them from engaging in dangerous behavior that human beings have typically assumed primary agency of. 
+
+**Human beings are especially naive on the presence of evil until it is recognized in the anthromorphic sense.** 
