@@ -146,7 +146,7 @@ conditions.** And that is where transhumanism comes into play as a cultural forc
 technological requirements and dependencies have disappointed and will disappoint. A.I. can be a better surgeon than a human trained for 
 years, yet its flaws cannot make it any better than a flawed person with redeeming qualities. A.I. and human beings are worlds apart. An 
 underlying topic of discussion around A.I., at least in 2022-24 if my memory serves correct, was on human slavery. There are similarities 
-between these two issues, the general link being the socioeconomic status problem. Those conversations, of course, carried into Diversity, 
+between these two issues, the general link being the socioeconomic status problem. Those conversations, of course, carried over into Diversity, 
 Equity, Inclusion initiatives in the United States and probably some ill-forgotten proposals by the United Nations. Machine logic is cold. 
 It is supposed to be since when it is hot, it is not running efficiently and maybe even going rampant. 
 
