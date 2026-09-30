@@ -10,7 +10,8 @@ discussion of A.I. development.
 
 Here is a passage from this article. 
 
-> AI alignment has an awkward question: aligned with which us?  
+> AI alignment has an awkward question: aligned with which us?
+>   
 > Somewhere right now, an engineer is testing whether an AI model will lie to protect itself.  
 > Down the hall, a colleague is rehearsing the story they’ll tell their manager about why the project is late.  
 
