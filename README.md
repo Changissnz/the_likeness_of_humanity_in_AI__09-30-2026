@@ -122,7 +122,7 @@ without boundaries... A.I. could impersonate person, person would use A.I. to co
 the mainstream media was using in their press releases, they agreed on the term "guardrails" as the boundaries to be imposed on A.I. systems 
 to prevent them from engaging in dangerous behavior that human beings have typically assumed primary agency of. 
 
-**Human beings are especially naive on the presence of evil until it is recognized in the anthromorphic sense.** And I venture to state 
+**Human beings are especially naive on the presence of evil until it is recognized in the anthromorphic perspective.** And I venture to state 
 that is essentially the problem with concerns over A.I. The technology is progressing. There will come another bottleneck where the 
 technology can no longer pass. The fears being proliferated from human beings are because human beings see the potential sins and evil 
 of systems trained on content given to it by human beings, content that oftentimes feature human beings. And not everyone is a puritan. 
