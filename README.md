@@ -77,7 +77,7 @@ can contribute, socially or scientifically, to the field of A.I.
 
 There's a generality going on with the concerns being voiced about A.I.'s capabilities. Every person that has been keeping up with the press 
 releases on public opinion of A.I. physical infrastructure development within the past year would have discovered the data center opposition 
-people, the Green Party and Blue Socialist affiliates, as I'd like to label them as. That is a different set of concerns, which to me, is  
+people, the Green Party and Blue Socialist affiliates, as I'd like to label them as. That is a different set of concerns, which to me, is 
 actually somewhat foolish due to the expensive requirements of developing the chip technology, the expertise ranging from computing to 
 civil engineering required to develop the data centers, and more. Those people are not helping many people in the US secure long-term employment 
 or dig themselves out of poverty. Supply chain is fragile and not everything can be relocated back to the United States. That is just my hypothesis. 
