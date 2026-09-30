@@ -33,3 +33,22 @@ Here is a passage from this article.
 >
 
 --------------------------------------------------------------------------------------------------------------------
+
+The content of this article, as with many of the other articles I wrote on the socioeconomic aspects of A.I., from my perspective, lack in 
+quantitative evidence. I think quantitative rigor is a bit hard for discussions on A.I. There are a few big public truths surrounding A.I. 
+development occurring in the US. 
+- Nvidia Corporation is the primary corporate giant awarded the privilege of providing the computer chips. It is a corporation headquartered
+  in California, where the designs take place and sent to Taiwan + affiliates for them to manufacture.
+- Many of the planned data center constructions will not be completed, due to a combination of poor cohesion between government officials and
+  infrastructure developers.
+- The stock market has created a major rift between the wealthy and the middle class, who would mostly be considered lower class, by the standard
+  of inflated wealth.
+- The white-collar workforce has diminished significantly due to the phenomenon of A.I. replacement.
+
+-----------------------------------------------------------------------------------------------------------------------
+
+There are issues with the legal, corporate, and media language being used to talk about A.I. development. I think the principle behind these 
+problems is quite obvious. The obfuscation aspect that enables concentrated power. There are no specifics given by these so-called knowledgeable 
+people on the A.I. black box. Instead, there are socialist types with their concerns over how the technology would ruin society, activists on 
+the potential ruin of their ideals, and capitalistic marketers with their terribly positive talk on the fortunes to be had in this A.I. thing. 
+**And now the effects engineers will do the explaining!**  
