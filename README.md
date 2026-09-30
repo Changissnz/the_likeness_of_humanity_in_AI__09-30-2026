@@ -195,7 +195,7 @@ a reminder, these are very speculative times. A lot of broken promises in store,
 and the emerging power / challenger archetypes are evolving with these times. That was why, in this [article](https://github.com/Changissnz/the_upcoming_AI_IPOs__09-26-2026), 
 I stated a "lot of Anglo Saxons suck, by the way". It's because power cannot always be relied on or consistent during times of challenge. The United States, 
 right now, from what I gather, might be going through what Great Britain went through during the last century. I don't want to be another alarmist about 
-these societal and structural issues plaguing this country. But it is definitely losing ground in some matters. Given the trajectory of how the rest 
+these societal and structural issues plaguing the US. But it is definitely losing ground in some matters. Given the trajectory of how the rest 
 of the world is developing, pretty soon, Americans that go overseas might find themselves in conditions equally as uncomfortable as George Orwell 
 in Burma. I know some Americans get the s* treatment over in Arabia. Those kinds of conditions may become more prevalent in areas outside of just 
 Arabia. 
