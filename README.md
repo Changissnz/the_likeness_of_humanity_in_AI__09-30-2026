@@ -1,6 +1,8 @@
 # The Likeness of Humanity in AI: 09-30-2026
+## written by Richard Pham 
 
----------------------------------------------
+My personal thoughts on what has been going wrong with A.I. development, from a social perspective, and why some things will not end well.
+------------------------------------------------------------------------------------------------------------------------------------------
 
 There was an interesting article written by a Murat Durmus on LinkedIn. Normally, LinkedIn 
 content has too much market flair, and not enough substantive depth. Likewise, this article 
@@ -160,13 +162,33 @@ contexts.
 **The fallacy of perfectionism.** Now this is just my perspective. Perfectionism can become very neurotic. Objectively, it requires metric to 
 improve on and human judgment to validate the efforts and product. That is being seen with the developments of A.I. No one can seem to make up 
 their mind anymore. Jev, for example, is the new A.I. released that is NOT an LLM. It is a System One A.I. that is just a few notches above 
-classical machine-learning algorithms. Jev is interesting because it is not a non-deterministic automaton like ChatGPT and Claude. Jev could technically 
-serve as a training system for producing A.I.s very similar in capability to ChatGPT and Claude. It would just require a lot of human input to 
-get it up to the metric of non-deterministic. 
+classical machine-learning algorithms. Jev is interesting because it is not a non-deterministic automaton, such as ChatGPT and Claude. Jev could 
+technically serve as a training system for producing A.I.s very similar in capability to ChatGPT and Claude. It would just require a lot of human 
+input to get it up to the metric of non-deterministic. 
 > Perfection, given how complex and biased human judgment can get, is to be believed if it cannot be demonstrated. And demonstration requires a
 > price. The price might be great sacrifice, given the tools at disposal and the risks to be taken.
 
+**Be warned. The marketers, policy-makers, and commoners all have different specific needs that may or may not coincide with improvements for or 
+because of A.I.** That is a fact. I mean, what do I know, really? If I was living in the Indian caste system, I would be a fallen Brahmin or a 
+low-ranking Kastriyan, with a noticeable stroke of Untouchable. It's about how far an individual can go, and that depends on how far their society 
+is willing to go. The capital and social risks associated with artificial intelligence? The US may not have started it, but it sure has become 
+very full of itself with this A.I. thing. 
 
+**Beware the deflationary force and realpolitik concerning A.I.** Much of the good deeds done by human beings in this world were done because 
+they were able to let go of their cynicism, programmatically conditioned into them over the course of many years of suboptimal circumstances.  
+Realpolitik, as a specific area of human activity, is not exactly kind or honest.  Commercially-driven, rhetoric filled with deceit, non-playable 
+characters (NPCs), and heroes of the stories. Power and prejudice are seldom divorced, and good judgment without prejudice is about as rare as a 
+diamond from Mars. It is, indeed, quite duplicitous and irrational to loyalties. On the other hand, the inflationary force is what has been driving 
+some delusions to probably go off the brink if some things do not get tempered down. The deflationary force is necessary for security of mind, 
+moreso, while it is also at least somewhat hostile towards divergence and independence. Pick and choose! 
 
-
-
+**Ending note:**
+I definitely have a lot more to express, but I am refraining because some of my thoughts and convictions have not been fully formulated yet. As 
+a reminder, these are very speculative times. A lot of broken promises in store, no doubt. The conformities of culturalists, the status quo people, 
+and the emerging power / challenger archetypes are evolving with these times. That was why, in this [article](https://github.com/Changissnz/the_upcoming_AI_IPOs__09-26-2026), 
+I stated a "lot of Anglo Saxons suck, by the way". It's because power cannot always be relied on or consistent during times of challenge. The United States, 
+right now, from what I gather, might be going through what Great Britain went through during the last century. I don't want to be another alarmist about 
+these societal and structural issues plaguing this country. But it is definitely losing ground in some matters. Given the trajectory of how the rest 
+of the world is developing, pretty soon, Americans that go overseas might find themselves in conditions equally as uncomfortable as George Orwell 
+in Burma. I know some Americans get the s* treatment over in Arabia. Those kinds of conditions may become more prevalent in areas outside of just 
+Arabia. 
