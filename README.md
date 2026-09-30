@@ -51,4 +51,15 @@ There are issues with the legal, corporate, and media language being used to tal
 problems is quite obvious. The obfuscation aspect that enables concentrated power. There are no specifics given by these so-called knowledgeable 
 people on the A.I. black box. Instead, there are socialist types with their concerns over how the technology would ruin society, activists on 
 the potential ruin of their ideals, and capitalistic marketers with their terribly positive talk on the fortunes to be had in this A.I. thing. 
-**And now the effects engineers will do the explaining!**  
+**And now the effects engineers will do the explaining!** The "effects engineers" do not talk about the cause of A.I. They don't really go into 
+explaining anything about LLMs besides the "transformers" (robots in disguise) algorithm used to train the systems over annotated strings of 
+words. No. "Effects engineers" talk about things such as "token-maxxing" (the act of using the A.I. system to the fullest of the ration given 
+to the person), the many ways to use A.I., and the breakthroughs in performance that A.I. has been able to achieve. There's definitely science 
+and engineering alright. It's just there's been a lot of effort and capital to concentrate the public's attention on the topics deemed worthy 
+by these effects engineers. 
+
+> I'm using this term "effects engineers" in a way that points to the insincerity to the capital profession of marketing LLMs. It's not actually
+> engineering. It's corporate consolidation. I'll be for real here. But what is anyone going to do about it? Go to Colombia or Brazil or even
+> Japan for these emerging A.I. systems?
+
+
