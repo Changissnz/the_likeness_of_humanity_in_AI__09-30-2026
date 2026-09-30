@@ -162,7 +162,7 @@ contexts.
 **The fallacy of perfectionism.** Now this is just my perspective. Perfectionism can become very neurotic. Objectively, it requires metric to 
 improve on and human judgment to validate the efforts and product. That is being seen with the developments of A.I. No one can seem to make up 
 their mind anymore. Jev, for example, is the new A.I. released that is NOT an LLM. It is a System One A.I. that is just a few notches above 
-classical machine-learning algorithms. Jev is interesting because it is not a non-deterministic automaton, such as ChatGPT and Claude. Jev could 
+classical machine-learning algorithms. Jev is interesting because it is not a non-deterministic automaton, unlike ChatGPT and Claude. Jev could 
 technically serve as a training system for producing A.I.s very similar in capability to ChatGPT and Claude. It would just require a lot of human 
 input to get it up to the standard of ChatGPT and Claude. 
 > Perfection, given how complex and biased human judgment can get, is to be believed if it cannot be demonstrated. And demonstration requires a
