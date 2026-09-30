@@ -137,8 +137,8 @@ Relativism across cultures, nations, and individuals.
 **The Boogeyman.** Real threats can be developed over time, as seen by today's consortium of emerging nation-state actors that have definitely 
 posed issues to the idea of "Western hegemony". Threats can also be manufactured. Manufactured threats. That is the industrial way to speak 
 of the concept, which has most definitely gained traction through the materialization of information. So when a person tells others A.I. 
-could be dangerous, hinting to them that they need "protection" from this emerging danger, then it is also reasonable to believe this 
-"protection" could also be a disservice. 
+could be dangerous, hinting to them that they need "protection" from this emerging danger, then it is reasonable to believe this "protection" 
+could also be a disservice. 
 > Is A.I. really dangerous? Or is that a new kind of "Damsel in Distress" and "Knight in Shining Armor" ploy?
 
 **We all come to see the flaws within ourselves and our close ones, friends and family. And some of us want more than our present and past 
