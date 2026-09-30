@@ -144,11 +144,11 @@ could be dangerous, hinting to them that they need "protection" from this emergi
 **We all come to see the flaws within ourselves and our close ones, friends and family. And some of us want more than our present and past 
 conditions.** And that is where transhumanism comes into play as a cultural force influencing the usage and development of A.I. The 
 technological requirements and dependencies have disappointed and will disappoint. A.I. can be a better surgeon than a human trained for 
-years, yet it cannot be any better than a flawed person with redeeming qualities. A.I. and human beings are worlds apart. An underlying 
-topic of discussion around A.I., at least in 2022-24 if my memory serves correct, was on human slavery. There are similarities between these 
-two issues, the general link being the socioeconomic status problem. Those conversations, of course, carried into Diversity, Equity, 
-Inclusion initiatives in the United States and probably some ill-forgotten proposals by the United Nations. Machine logic is cold. It is 
-supposed to be since when it is hot, it is not running efficiently and maybe even going rampant. 
+years, yet its flaws cannot make it any better than a flawed person with redeeming qualities. A.I. and human beings are worlds apart. An 
+underlying topic of discussion around A.I., at least in 2022-24 if my memory serves correct, was on human slavery. There are similarities 
+between these two issues, the general link being the socioeconomic status problem. Those conversations, of course, carried into Diversity, 
+Equity, Inclusion initiatives in the United States and probably some ill-forgotten proposals by the United Nations. Machine logic is cold. 
+It is supposed to be since when it is hot, it is not running efficiently and maybe even going rampant. 
 
 **Drawing parallels between human nature and the development of A.I. is useful.** And that is because our process of rediscovery and 
 re-enactment lets us see better options, decisions we should have taken despite the cultural expectations, and our wrongs in action and 
