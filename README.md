@@ -109,7 +109,7 @@ A passage from this article is this.
 > and how we act can't wait.  
 > We have never proven that anyone else is conscious, and perhaps we never will. We observe behavior, infer a mind, and act on imperfect
 > evidence. Shared biology gives us far stronger grounds for that inference about humans than about machines, but it still falls short of
-> certainty.
+> certainty.  
 > 
 > The question "Is it self-aware?" can become a comfortable place to linger, because it allows for endless debate. Meanwhile, there's a
 > more pressing question we can answer now: What is AI doing to us?
