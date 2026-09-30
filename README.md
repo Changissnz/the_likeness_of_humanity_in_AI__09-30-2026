@@ -65,7 +65,7 @@ by these effects engineers.
 > But what is anyone going to do about it? Go to Colombia or Brazil or Russia or even Japan for these emerging A.I. systems?
 
 The problems with A.I., outside of the engineering bottlenecks and theoretical issues, which have been rapidly getting put behind the many 
-proprietary paywalls and cultish university circles, rests on the likenesses that human beings draw to it. When a person voices their concern 
+proprietary paywalls and cultish university circles, rest on the likenesses that human beings draw to it. When a person voices their concern 
 that "artificial intelligence" might pose credible danger, there's really only two ways to interpret them: they are lying for their self-interest, 
 or they are not lying for their self-interest. It's not cynical to make this assumption, since these two ways cover virtually every person that 
 can contribute, socially or scientifically, to the field of A.I. 
