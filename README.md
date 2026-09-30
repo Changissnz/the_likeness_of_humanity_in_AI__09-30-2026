@@ -182,6 +182,13 @@ diamond from Mars. It is, indeed, quite duplicitous and irrational to loyalties.
 some delusions to probably go off the brink if some things do not get tempered down. The deflationary force is necessary for security of mind, 
 moreso, while it is also at least somewhat hostile towards divergence and independence. Pick and choose! 
 
+**The Oriental approach will result in stupidity and the Byzantine approach in murder.** This is a cultural perspective I've developed since my 
+twenties, and I apply that to my idea on A.I. development. I'm not trying to stereotype. I'm stating this in the way I see it, in terms of geopolitical 
+blocs over historical and anecdotal accounting. In the first, there is the bureaucracy in the best case, which is ethnoculturally configured, and in the 
+worse cases illiteracy, crime, and cruel and unusual punishment, not saying that other regions are definitively any better. And the Byzantine approach 
+becomes too complex to understand. What do I know though? I've never lived in an Asian or Eastern European country. I'm just saying it like how it is, 
+in my world. See what a problem is now, with A.I. applications and the likeness of humanity? 
+
 **Ending note:**
 I definitely have a lot more to express, but I am refraining because some of my thoughts and convictions have not been fully formulated yet. As 
 a reminder, these are very speculative times. A lot of broken promises in store, no doubt. The conformities of culturalists, the status quo people, 
