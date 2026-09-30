@@ -132,10 +132,27 @@ that can maim or kill someone through disinformation and bad training. And that 
 existential problem, where a human being can really only understand anything communicated or done to them in their own terms of meaning. 
 Relativism across cultures, nations, and individuals. 
 
-**The Boogey-Man.** Real threats can be developed over time, as seen by today's consortium of emerging nation-state actors that have definitely 
+**The Boogeyman.** Real threats can be developed over time, as seen by today's consortium of emerging nation-state actors that have definitely 
 posed issues to the idea of "Western hegemony". Threats can also be manufactured. Manufactured threats. That is the industrial way to speak 
 of the concept, which has most definitely gained traction through the materialization of information. So when a person tells others A.I. 
 could be dangerous, hinting to them that they need "protection" from this emerging danger, then it is also reasonable to believe this 
 "protection" could also be a disservice. 
 > Is A.I. really dangerous? Or it is a new kind of "Damsel in Distress" and "Knight in Shining Armor" ploy?
+
+**We all come to see the flaws within ourselves and our close ones, friends and family. And some of us want more than our present and past 
+conditions.** And that is where transhumanism comes into play as a cultural force influencing the usage and development of A.I. The 
+technological requirements and dependencies have disappointed and will disappoint. A.I. can be a better surgeon than a human trained for 
+years, yet it cannot be any better than a flawed person with redeeming qualities. A.I. and human beings are worlds apart. An underlying 
+topic of discussion around A.I., at least in 2022-24 if my memory serves correct, was on human slavery. There are similarities between these 
+two issues, the general link being the socioeconomic status problem. Those conversations, of course, carried into Diversity, Equity, 
+Inclusion initiatives in the United States and probably some ill-forgotten proposals by the United Nations. Machine logic is cold. It is 
+supposed to be since when it is hot, it is not running efficiently and maybe even going rampant. 
+
+**Drawing parallels between human nature and the development of A.I. is useful.** And that is because our process of rediscovery and 
+re-enactment lets us see better options, decisions we should have taken despite the cultural expectations, and our wrongs in action and 
+in our nature when conditions place us in them. The stupidity and nonsense that has come about during this process is the price human beings 
+pay for developing this technology. The redemption points can be retrieved when the technology has great application for certain problematic 
+contexts. 
+
+
 
