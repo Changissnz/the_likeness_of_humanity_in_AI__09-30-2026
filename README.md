@@ -155,7 +155,7 @@ pay for developing this technology. The redemption points can be retrieved when 
 contexts. 
 > For example, swarm technology. Swarm technology is not entirely benign, as being seen in Eastern Europe right now. The best source for
 > perfecting swarm technology, besides from what is going on with Ukraine? In my opinion, that would be studying the patterns of human activity
-> in densely populated Oriental and Indian areas (civil/benign), as well as looking into the historical Turkic, Mongol, and other nomadic peoples.
+> in densely populated Oriental and Indian areas, as well as studying historical Turkic, Mongol, and other nomadic peoples.
 
 **The fallacy of perfectionism.** Now this is just my perspective. Perfectionism can become very neurotic. Objectively, it requires metric to 
 improve on and human judgment to validate the efforts and product. That is being seen with the developments of A.I. No one can seem to make up 
