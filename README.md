@@ -106,7 +106,8 @@ illuminating article by Durmus.
 A passage from this article is this. 
 
 > I have stopped waiting to learn whether AI is conscious. Not because the question is meaningless, but because we can't answer it yet,
-> and how we act can't wait.  
+> and how we act can't wait.
+>   
 > We have never proven that anyone else is conscious, and perhaps we never will. We observe behavior, infer a mind, and act on imperfect
 > evidence. Shared biology gives us far stronger grounds for that inference about humans than about machines, but it still falls short of
 > certainty.  
