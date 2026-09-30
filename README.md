@@ -79,12 +79,12 @@ There's a generality going on with the concerns being voiced about A.I.'s capabi
 releases on public opinion of A.I. physical infrastructure development within the past year would have discovered the data center opposition 
 people, the Green Party and Blue Socialist affiliates, as I'd like to label them as. That is a different set of concerns, which to me, is 
 actually somewhat foolish due to the expensive requirements of developing the chip technology, the expertise ranging from computing to 
-civil engineering required to develop the data centers, and more. Those people are not helping many people in the US secure long-term employment 
-or dig themselves out of poverty. Supply chain is fragile and not everything can be relocated back to the United States. That is just my hypothesis. 
-It comes down to a sore appreciation for common STEM workers, ironically, many of them having got laid off or sunk into debt since the "jobs crisis" 
-afflicting the country (circa 2021-2022). Granted, it is also my belief that much of the data center construction cannot be fully trusted by the general 
-public, since it is a combination of red tape and proprietarists (the Private Equity people) that are not making the truth-seeking process on these matters 
-easy for the commoner to verify. **The machines are not supposed to be your friend.**
+civil engineering required to develop the data centers, and more. That is just my hypothesis. Those people are not helping many people in the US 
+secure long-term employment or dig themselves out of poverty. Supply chain is fragile and not everything can be relocated back to the United 
+States. It comes down to a sore appreciation for common STEM workers, ironically, many of them having got laid off or sunk into debt since 
+the "jobs crisis" afflicting the country (circa 2021-2022). Granted, it is also my belief that much of the data center construction cannot 
+be fully trusted by the general public, since it is a combination of red tape and proprietarists (the Private Equity people) that are not 
+making the truth-seeking process on these matters easy for the commoner to verify. **The machines are not supposed to be your friend.**
 
 Back to the discussion on A.I.'s capabilities, what about them? OpenAI's ChatGPT can write mathematical proofs besting most human beings now. 
 About a decade ago, Google released its AlphaGo A.I., which is about one of the most perfect masters of the Go board game ever. That was 
