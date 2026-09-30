@@ -86,18 +86,30 @@ proprietarists (the Private Equity people) that are not making the truth-seeking
 Back to the discussion on A.I.'s capabilities, what about them? OpenAI's ChatGPT can write mathematical proofs besting most human beings now. 
 About a decade ago, Google released its AlphaGo A.I., which is about one of the most perfect masters of the Go board game ever. That was 
 big news back then. And that news sure carried a less corporatistic tone than today's A.I. news marketing. Why is that? **The presentation 
-style.** Experts had already concluded that if an A.I. can be trained to beat chess masters, an A.I. of sufficiently greater memory and 
-different kind of training data can also master Go. It's just that Go and Chess are merely board games, apparently. They take a person a lot 
-of time and training to get good at. And the board games are not fully "applicable" to human experience. With LLMs, their realistic generation 
-of content, ranging from articles to images to videos, provide many additional dimensions for likeness to the human experience. The hardness 
-of the computational problem, from the limited amount of information I was able to obtain on the LLM blackboxes, may as well just be as hard 
-as training a bot to master the Go board game. However, the many tasks these new A.I. systems can do require a sufficiently greater breadth 
-and depth of training data, hence the greater diversification of their effects. **Thank you, effects engineers, for telling the whole world 
-how much more capable and effective these new systems are!** 
+style.** There was still an open-knowledge initiative going strong back then, but then economic problems, war and such in today's context 
+darkens the discussion on these high-end technologies. Experts had already concluded that if an A.I. can be trained to beat chess masters, 
+an A.I. of sufficiently greater memory and different kind of training data can also master Go. It's just that Go and Chess are merely board 
+games, apparently. They take a person a lot of time and training to get good at. And the board games are not fully "applicable" to human 
+experience. With LLMs, their realistic generation of content, ranging from articles to images to videos, provide many additional dimensions 
+for likeness to the human experience. The hardness of the computational problem, from the limited amount of information I was able to obtain 
+on the LLM blackboxes, may as well just be as hard as training a bot to master the Go board game. However, the many tasks these new A.I. 
+systems can do require a sufficiently greater breadth and depth of training data, hence the greater diversification of their effects. 
+**Thank you, effects engineers, for telling the whole world how much more capable and effective these new systems are!** 
 
 **The many concerns that humans have been voicing on A.I. are a result of the deficits of their experience with other human beings.** I think 
-that was one of the big implications Durmus, in his article, was pushing the reader towards expressing themselves. The person that Durmus was, 
-he probably did not want to be too direct in stating that; he probably believes in that kind of subtlety. 
+that was one of the big implications Durmus, in his article, was pushing the reader towards expressing themselves. The person that Durmus is, 
+he probably did not want to be too direct in stating that; he probably believes in that kind of subtlety. This is another simple but 
+illuminating article by Durmus. 
 
+![image info](https://github.com/Changissnz/the_likeness_of_humanity_in_AI__09-30-2026/blob/main/Screenshot%202026-09-30%20020625.png)
 
+A passage from this article is this. 
 
+> I have stopped waiting to learn whether AI is conscious. Not because the question is meaningless, but because we can't answer it yet,
+> and how we act can't wait.  
+> We have never proven that anyone else is conscious, and perhaps we never will. We observe behavior, infer a mind, and act on imperfect
+> evidence. Shared biology gives us far stronger grounds for that inference about humans than about machines, but it still falls short of
+> certainty.
+> 
+> The question "Is it self-aware?" can become a comfortable place to linger, because it allows for endless debate. Meanwhile, there's a
+> more pressing question we can answer now: What is AI doing to us?
