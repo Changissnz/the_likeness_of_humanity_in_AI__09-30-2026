@@ -174,7 +174,7 @@ low-ranking Kastriyan, with a noticeable stroke of Untouchable. It's about how f
 is willing to go. The capital and social risks associated with artificial intelligence? The US may not have started it, but it sure has become 
 very full of itself with this A.I. thing. 
 
-**Beware the deflationary force and realpolitik concerning A.I.** Much of the good deeds done by human beings in this world were done because 
+**Beware the deflationary force and realpolitik concerning A.I.** Many of the good deeds done by human beings in this world were done because 
 they were able to let go of their cynicism, programmatically conditioned into them over the course of many years of suboptimal circumstances. 
 Realpolitik, as a specific area of human activity, is not exactly kind or honest. It is, indeed, quite duplicitous and irrational to loyalties. 
 Commercially-driven, rhetoric filled with deceit, non-playable characters (NPCs), and heroes of the stories. Power and prejudice are seldom 
