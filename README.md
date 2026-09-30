@@ -95,6 +95,9 @@ as training a bot to master the Go board game. However, the many tasks these new
 and depth of training data, hence the greater diversification of their effects. **Thank you, effects engineers, for telling the whole world 
 how much more capable and effective these new systems are!** 
 
+**The many concerns that humans have been voicing on A.I. are a result of the deficits of their experience with other human beings.** I think 
+that was one of the big implications Durmus, in his article, was pushing the reader towards expressing themselves. The person that Durmus was, 
+he probably did not want to be too direct in stating that; he probably believes in that kind of subtlety. 
 
 
 
