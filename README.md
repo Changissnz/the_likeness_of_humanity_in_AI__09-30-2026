@@ -68,10 +68,10 @@ that "artificial intelligence" might pose credible danger, there's really only t
 or they are not lying for their self-interest. It's not cynical to make this assumption, since these two ways cover virtually every person that 
 can contribute, socially or scientifically, to the field of A.I. 
 
-> Yes, A.I. can lie to you.
-> Yes, A.I. can "hallucinate" (fabricate) answers for you.
-> Yes, A.I. can be a sycophant to you.
-> Yes, A.I. can make mistakes.
+> - Yes, A.I. can lie to you.
+> - Yes, A.I. can "hallucinate" (fabricate) answers for you.
+> - Yes, A.I. can be a sycophant to you.
+> - Yes, A.I. can make mistakes.
 
 There's a generality going on with the concerns being voiced about A.I.'s capabilities. Every person that has been keeping up with the press 
 releases on public opinion of A.I. physical infrastructure development within the past year would have discovered the data center opposition 
