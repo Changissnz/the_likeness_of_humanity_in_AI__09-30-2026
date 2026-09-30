@@ -59,8 +59,8 @@ and engineering alright. It's just there's been a lot of effort and capital to c
 by these effects engineers. 
 
 > I'm using this term "effects engineers" in a way that points to the insincerity of the capitalist profession of marketing LLMs. It's not actually
-> engineering. It's corporate consolidation. I'll be for real here. But what is anyone going to do about it? Go to Colombia or Brazil or even
-> Japan for these emerging A.I. systems?
+> engineering. It's corporate consolidation through overwhelming audiences with the great big effects. See what I'm saying? I'll be for real here.
+> But what is anyone going to do about it? Go to Colombia or Brazil or Russia or even Japan for these emerging A.I. systems?
 
 The problems with A.I., outside of the engineering bottlenecks and theoretical issues, which have been rapidly getting put behind the many 
 proprietary paywalls and cultish university circles, rests on the likenesses that human beings draw to it. When a person voices their concern 
