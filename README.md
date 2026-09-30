@@ -125,4 +125,7 @@ to prevent them from engaging in dangerous behavior that human beings have typic
 that is essentially the problem with concerns over A.I. The technology is progressing. There will come another bottleneck where the 
 technology can no longer pass. The fears being proliferated from human beings are because human beings see the potential sins and evil 
 of systems trained on content given to it by human beings, content that oftentimes feature human beings. And not everyone is a puritan. 
-Not everyone is fixed in the zone of being benign. 
+Not everyone is fixed in the zone of being benign. The parrot test. The Turing test. The many ways that language, even in one natural 
+language, can express an idea is a cause for concern that has expanded from mere rhetorical fallacy or calculated dishonesty to systems 
+that can maim or kill someone through disinformation and bad training. And that expansion has come with it a lot of alarmism. This is an 
+existential problem, where a human being can really understand anything communicated or done to them in their own terms of meaning. 
