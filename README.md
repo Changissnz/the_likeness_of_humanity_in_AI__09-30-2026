@@ -175,7 +175,7 @@ is willing to go. The capital and social risks associated with artificial intell
 very full of itself with this A.I. thing. 
 
 **Beware the deflationary force and realpolitik concerning A.I.** Much of the good deeds done by human beings in this world were done because 
-they were able to let go of their cynicism, programmatically conditioned into them over the course of many years of suboptimal circumstances.  
+they were able to let go of their cynicism, programmatically conditioned into them over the course of many years of suboptimal circumstances. 
 Realpolitik, as a specific area of human activity, is not exactly kind or honest.  Commercially-driven, rhetoric filled with deceit, non-playable 
 characters (NPCs), and heroes of the stories. Power and prejudice are seldom divorced, and good judgment without prejudice is about as rare as a 
 diamond from Mars. It is, indeed, quite duplicitous and irrational to loyalties. On the other hand, the inflationary force is what has been driving 
