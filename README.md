@@ -58,8 +58,43 @@ to the person), the many ways to use A.I., and the breakthroughs in performance 
 and engineering alright. It's just there's been a lot of effort and capital to concentrate the public's attention on the topics deemed worthy 
 by these effects engineers. 
 
-> I'm using this term "effects engineers" in a way that points to the insincerity to the capital profession of marketing LLMs. It's not actually
+> I'm using this term "effects engineers" in a way that points to the insincerity of the capitalist profession of marketing LLMs. It's not actually
 > engineering. It's corporate consolidation. I'll be for real here. But what is anyone going to do about it? Go to Colombia or Brazil or even
 > Japan for these emerging A.I. systems?
+
+The problems with A.I., outside of the engineering bottlenecks and theoretical issues, which have been rapidly getting put behind the many 
+proprietary paywalls and cultish university circles, rests on the likenesses that human beings draw to it. When a person voices their concern 
+that "artificial intelligence" might pose credible danger, there's really only two ways to interpret them: they are lying for their self-interest, 
+or they are not lying for their self-interest. It's not cynical to make this assumption, since these two ways cover virtually every person that 
+can contribute, socially or scientifically, to the field of A.I. 
+
+> Yes, A.I. can lie to you.
+> Yes, A.I. can "hallucinate" (fabricate) answers for you.
+> Yes, A.I. can be a sycophant to you.
+> Yes, A.I. can make mistakes.
+
+There's a generality going on with the concerns being voiced about A.I.'s capabilities. Every person that has been keeping up with the press 
+releases on public opinion of A.I. physical infrastructure development within the past year would have discovered the data center opposition 
+people, the Green Party and Blue Socialist affiliates, as I'd like to label them as. That is a different set of concerns, which to me, is  
+actually somewhat foolish due to the expensive requirements of developing the chip technology, the expertise ranging from computing to 
+civil engineering required to develop the data centers, and more. Those people are not helping many people in the US secure long-term employment 
+or dig themselves out of poverty. That is just my hypothesis. It comes down to a sore appreciation for common STEM workers, ironically, many 
+of them having got laid off or sunk into debt since the "jobs crisis" afflicting the country (circa 2021-2022). Granted, it is also my 
+belief that much of the data center construction cannot be fully trusted by the general public, since it is a combination of red tape and 
+proprietarists (the Private Equity people) that are not making the truth-seeking process on these matters easy for the commoner to verify. 
+
+Back to the discussion on A.I.'s capabilities, what about them? OpenAI's ChatGPT can write mathematical proofs besting most human beings now. 
+About a decade ago, Google released its AlphaGo A.I., which is about one of the most perfect masters of the Go board game ever. That was 
+big news back then. And that news sure carried a less corporatistic tone than today's A.I. news marketing. Why is that? **The presentation 
+style.** Experts had already concluded that if an A.I. can be trained to beat chess masters, an A.I. of sufficiently greater memory and 
+different kind of training data can also master Go. It's just that Go and Chess are merely board games, apparently. They take a person a lot 
+of time and training to get good at. And the board games are not fully "applicable" to human experience. With LLMs, their realistic generation 
+of content, ranging from articles to images to videos, provide many additional dimensions for likeness to the human experience. The hardness 
+of the computational problem, from the limited amount of information I was able to obtain on the LLM blackboxes, may as well just be as hard 
+as training a bot to master the Go board game. However, the many tasks these new A.I. systems can do require a sufficiently greater breadth 
+and depth of training data, hence the greater diversification of their effects. **Thank you, effects engineers, for telling the whole world 
+how much more capable and effective these new systems are!** 
+
+
 
 
