@@ -115,7 +115,7 @@ A passage from this article is this.
 > The question "Is it self-aware?" can become a comfortable place to linger, because it allows for endless debate. Meanwhile, there's a
 > more pressing question we can answer now: What is AI doing to us?
 
-It's a philosophy of mind question, perplexing to ponder on, not entirely for reaching objective answers on. And one problem I have found 
+It's a philosophy of mind question, perplexing to ponder on, not entirely for reaching objective answers. And one problem I have found 
 with the discussions on A.I. development is on having A.I. achieve the likeness of humanity, while still maintaining boundaries because 
 without boundaries... A.I. could impersonate person, person would use A.I. to conjure up mirages, et cetera. In the corporatistic terms 
 the mainstream media was using in their press releases, they agreed on the term "guardrails" as the boundaries to be imposed on A.I. systems 
