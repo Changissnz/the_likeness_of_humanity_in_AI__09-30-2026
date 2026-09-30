@@ -153,6 +153,20 @@ re-enactment lets us see better options, decisions we should have taken despite 
 in our nature when conditions place us in them. The stupidity and nonsense that has come about during this process is the price human beings 
 pay for developing this technology. The redemption points can be retrieved when the technology has great application for certain problematic 
 contexts. 
+> For example, swarm technology. Swarm technology is not entirely benign, as being seen in Eastern Europe right now. The best source for
+> perfecting swarm technology, besides from what is going on with Ukraine? In my opinion, that would be studying the patterns of human activity
+> in densely populated Oriental and Indian areas (civil/benign), as well as looking into the historical Turkic, Mongol, and other nomadic peoples.
+
+**The fallacy of perfectionism.** Now this is just my perspective. Perfectionism can become very neurotic. Objectively, it requires metric to 
+improve on and human judgment to validate the efforts and product. That is being seen with the developments of A.I. No one can seem to make up 
+their mind anymore. Jev, for example, is the new A.I. released that is NOT an LLM. It is a System One A.I. that is just a few notches above 
+classical machine-learning algorithms. Jev is interesting because it is not a non-deterministic automaton like ChatGPT and Claude. Jev could technically 
+serve as a training system for producing A.I.s very similar in capability to ChatGPT and Claude. It would just require a lot of human input to 
+get it up to the metric of non-deterministic. 
+> Perfection, given how complex and biased human judgment can get, is to be believed if it cannot be demonstrated. And demonstration requires a
+> price. The price might be great sacrifice, given the tools at disposal and the risks to be taken.
+
+
 
 
 
