@@ -153,7 +153,7 @@ It is supposed to be since when it is hot, it is not running efficiently and may
 **Drawing parallels between human nature and the development of A.I. is useful.** And that is because our process of rediscovery and 
 re-enactment lets us see better options, decisions we should have taken despite the cultural expectations, and our wrongs in action and 
 in our nature when conditions place us in them. The stupidity and nonsense that has come about during this process is the price human beings 
-pay for developing this technology. The redemption points can be retrieved when the technology has great application for certain problematic 
+pay for developing this technology. The redemption points can be retrieved when the technology bears great application for certain problematic 
 contexts. 
 > For example, swarm technology. Swarm technology is not entirely benign, as being seen in Eastern Europe right now. The best source for
 > perfecting swarm technology, besides from what is going on with Ukraine? In my opinion, that would be studying the patterns of human activity
