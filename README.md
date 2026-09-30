@@ -155,7 +155,7 @@ re-enactment lets us see better options, decisions we should have taken despite 
 in our nature when conditions place us in them. The stupidity and nonsense that has come about during this process is the price human beings 
 pay for developing this technology. The redemption points can be retrieved when the technology bears great application for certain problematic 
 contexts. 
-> For example, swarm technology. Swarm technology is not entirely benign, as being seen in Eastern Europe right now. The best source for
+> For example, swarm technology. Swarm technology is not entirely benign, as being seen in Eastern Europe right now. The best reference for
 > perfecting swarm technology, besides from what is going on with Ukraine? In my opinion, that would be studying the patterns of human activity
 > in densely populated Oriental and Indian areas, as well as studying historical Turkic, Mongol, and other nomadic peoples.
 
