@@ -90,7 +90,7 @@ Back to the discussion on A.I.'s capabilities, what about them? OpenAI's ChatGPT
 About a decade ago, Google released its AlphaGo A.I., which is about one of the most perfect masters of the Go board game ever. That was 
 big news back then. And that news sure carried a less corporatistic tone than today's A.I. news marketing. Why is that? **The presentation 
 style.** There was still an open-knowledge initiative going strong back then, but then economic problems, war and such in today's context 
-darkens the discussion on these high-end technologies. Experts had already concluded that if an A.I. can be trained to beat chess masters, 
+darken the discussion on these high-end technologies. Experts had already concluded that if an A.I. can be trained to beat chess masters, 
 an A.I. of sufficiently greater memory and different kind of training data can also master Go. It's just that Go and Chess are merely board 
 games, apparently. They take a person a lot of time and training to get good at. And the board games are not fully "applicable" to human 
 experience. With LLMs, their realistic generation of content, ranging from articles to images to videos, provide many additional dimensions 
