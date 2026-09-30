@@ -78,10 +78,11 @@ releases on public opinion of A.I. physical infrastructure development within th
 people, the Green Party and Blue Socialist affiliates, as I'd like to label them as. That is a different set of concerns, which to me, is  
 actually somewhat foolish due to the expensive requirements of developing the chip technology, the expertise ranging from computing to 
 civil engineering required to develop the data centers, and more. Those people are not helping many people in the US secure long-term employment 
-or dig themselves out of poverty. That is just my hypothesis. It comes down to a sore appreciation for common STEM workers, ironically, many 
-of them having got laid off or sunk into debt since the "jobs crisis" afflicting the country (circa 2021-2022). Granted, it is also my 
-belief that much of the data center construction cannot be fully trusted by the general public, since it is a combination of red tape and 
-proprietarists (the Private Equity people) that are not making the truth-seeking process on these matters easy for the commoner to verify. 
+or dig themselves out of poverty. Supply chain is fragile and not everything can be relocated back to the United States. That is just my hypothesis. 
+It comes down to a sore appreciation for common STEM workers, ironically, many of them having got laid off or sunk into debt since the "jobs crisis" 
+afflicting the country (circa 2021-2022). Granted, it is also my belief that much of the data center construction cannot be fully trusted by the general 
+public, since it is a combination of red tape and proprietarists (the Private Equity people) that are not making the truth-seeking process on these matters 
+easy for the commoner to verify. **The machines are not supposed to be your friend.**
 
 Back to the discussion on A.I.'s capabilities, what about them? OpenAI's ChatGPT can write mathematical proofs besting most human beings now. 
 About a decade ago, Google released its AlphaGo A.I., which is about one of the most perfect masters of the Go board game ever. That was 
@@ -128,4 +129,13 @@ of systems trained on content given to it by human beings, content that oftentim
 Not everyone is fixed in the zone of being benign. The parrot test. The Turing test. The many ways that language, even in one natural 
 language, can express an idea is a cause for concern that has expanded from mere rhetorical fallacy or calculated dishonesty to systems 
 that can maim or kill someone through disinformation and bad training. And that expansion has come with it a lot of alarmism. This is an 
-existential problem, where a human being can really understand anything communicated or done to them in their own terms of meaning. 
+existential problem, where a human being can really only understand anything communicated or done to them in their own terms of meaning. 
+Relativism across cultures, nations, and individuals. 
+
+**The Boogey-Man.** Real threats can be developed over time, as seen by today's consortium of emerging nation-state actors that have definitely 
+posed issues to the idea of "Western hegemony". Threats can also be manufactured. Manufactured threats. That is the industrial way to speak 
+of the concept, which has most definitely gained traction through the materialization of information. So when a person tells others A.I. 
+could be dangerous, hinting to them that they need "protection" from this emerging danger, then it is also reasonable to believe this 
+"protection" could also be a disservice. 
+> Is A.I. really dangerous? Or it is a new kind of "Damsel in Distress" and "Knight in Shining Armor" ploy?
+
